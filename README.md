@@ -9,7 +9,7 @@
 ## Websites I recommend
 
 	[YouTube](https://youtube.com)
-	* YouTube is an extremely versatile video sharing website that can be used for learning new skills,  getting better a understanding on things, or for entertainment.
+	* YouTube is an extremely versatile video sharing website that can be used for learning new skills, getting better a understanding on things, or for entertainment.
 	
 	[ACI Learning](https://acilearning.com) 
-	* ACI Learning is a great online educational resource I used when i wanted more knowledge on a subject in the tech field.  They have many videos to look at all that prepare for for different certifications.
+	* ACI Learning is a great online educational resource I used when i wanted more knowledge on a subject in the tech field. They have many videos to look at all that prepare for different certifications.
